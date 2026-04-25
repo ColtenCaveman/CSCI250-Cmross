@@ -1,7 +1,7 @@
 # CS3-cmross
 
 
-## My github repo for CSCI241
+## My github repo for CSCI250
 
 | Name | Value |
 |:---|:---|
