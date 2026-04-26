@@ -1,0 +1,8 @@
+Bubble, Selection, and Insertion Sort are all pretty slow as your dataset gets big because there O of n^2. Bubble sort especially,
+i feel goes without saying is basically just swapping till something works, so big datasets wont work well for it. Merge sort and 
+quick sort are better as they are O of n log n, I do feel like merge sort is more consistent, as in my testing i would ovassionally
+get a bigger variance in the time with quick sort, but i cant fully say why. The built in sort was super fast in all my testing and
+nothing even came close, which after some research makes sense, it can vary from O of n in a best case to O of n log n which is
+still pretty fast. All in all my timings made sense when compared to expected, Bubble, Selection and Insertion in the thousands of
+milliseconds, bubble being the worst. Then merge and quick performing solid in the 10's of Ms, and Built in just crushing it at i
+think the worst i saw was 1.5 but the lowest was like 0.4 which is insanely fast.
