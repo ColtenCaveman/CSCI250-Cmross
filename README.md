@@ -14,17 +14,29 @@
 
 ## Assignments
 
+### Assignment #4
+
+| Name | Value |
+| :--- | :--- |
+| Name | 4 -  |
+| Description |  |
+| Due Date | 5-14-2026 |
+| Status | incomplete |
+| Location |  |
+| Self Grade | |
+| Notes |  |
+
 ### Assignment #3
 
 | Name | Value |
 | :--- | :--- |
-| Name | 1 -  |
-| Description |  |
-| Due Date |  |
-| Status |  |
-| Location |  |
-| Self Grade |  |
-| Notes |  |
+| Name | 3 - Weighted Graphs |
+| Description | An assignment for creating a weighted graph and doing bredth and depth first search on it |
+| Due Date | 5-14-2026 |
+| Status | Complete |
+| Location | https://github.com/ColtenCaveman/CSCI250-Cmross/blob/main/Assignments/Assignment%203/Weighted_Graphs.py |
+| Self Grade | 100 |
+| Notes | completed on time and completely, screenshots in same folder |
 
 
 ### Assignment #2
