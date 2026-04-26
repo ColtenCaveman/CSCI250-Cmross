@@ -35,9 +35,9 @@
 | Description | An Assignment to implement various different sorting algorithms in Python |
 | Due Date | 5-14-2026 |
 | Status | Complete |
-| Location |  |
-| Self Grade |  |
-| Notes |  |
+| Location | https://github.com/ColtenCaveman/CSCI250-Cmross/tree/main/Assignments/Assignment%202 |
+| Self Grade | 80 |
+| Notes | completed, is pretty late though |
 
 
 ### Assignment #1
