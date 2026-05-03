@@ -18,13 +18,13 @@
 
 | Name | Value |
 | :--- | :--- |
-| Name | 4 -  |
-| Description |  |
+| Name | 4 - Heap |
+| Description | an assignment to build a heap and perform various functions on it |
 | Due Date | 5-14-2026 |
-| Status | incomplete |
-| Location |  |
-| Self Grade | |
-| Notes |  |
+| Status | complete |
+| Location | https://github.com/ColtenCaveman/CSCI250-Cmross/blob/main/Assignments/Assignment%204/heap.py |
+| Self Grade | 100 |
+| Notes | This was tough, i had to lean alot on a classmate to explain heap structures as i couldnt find the lecture, i remembered you talking about it though. Probably the toughest assignment this semester. |
 
 ### Assignment #3
 
