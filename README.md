@@ -14,6 +14,18 @@
 
 ## Assignments
 
+### Assignment #5
+
+| Name | Value |
+| :--- | :--- |
+| Name | 5 - Huffman |
+| Description | an assignment for huffman |
+| Due Date | 5-14-2026 |
+| Status | complete |
+| Location | https://github.com/ColtenCaveman/CSCI250-Cmross/blob/main/Assignments/Assignment%205/huffman.py |
+| Self Grade | 100 |
+| Notes | This was tough, but ended up getting there in the end |
+
 ### Assignment #4
 
 | Name | Value |
